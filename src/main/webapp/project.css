@@ -1,0 +1,200 @@
+.mx-1 {
+    margin-left: 0.25rem;
+    margin-right: 0.25rem;
+}
+
+.mx-6 {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+}
+
+.mx-8 {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
+
+.mx-auto {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.my-5 {
+    margin-top: 1.25rem;
+    margin-bottom: 1.25rem;
+}
+
+.my-96 {
+    margin-top: 24rem;
+    margin-bottom: 24rem;
+}
+
+.flex {
+    display: flex;
+}
+
+.grid {
+    display: grid;
+}
+
+.w-1\/2 {
+    width: 50%;
+}
+
+.w-full {
+    width: 100%;
+}
+
+.max-w-2xl {
+    max-width: 42rem;
+}
+
+.appearance-none {
+    -webkit-appearance: none;
+    appearance: none;
+}
+
+.grid-cols-2 {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.items-center {
+    align-items: center;
+}
+
+.gap-4 {
+    gap: 1rem;
+}
+
+.rounded-3xl {
+    border-radius: 1.5rem;
+}
+
+.rounded-lg {
+    border-radius: 0.5rem;
+}
+
+.border-2 {
+    border-width: 2px;
+}
+
+.border-b {
+    border-bottom-width: 1px;
+}
+
+.bg-blue-300 {
+    background-color: rgb(147 197 253);
+}
+
+.bg-white {
+    background-color: rgb(255 255 255);
+}
+
+.p-1 {
+    padding: 0.25rem;
+}
+
+.px-4 {
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
+
+.py-1 {
+    padding-top: 0.25rem;
+    padding-bottom: 0.25rem;
+}
+
+.py-5 {
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+}
+
+.pb-2 {
+    padding-bottom: 0.5rem;
+}
+
+.text-center {
+    text-align: center;
+}
+
+.font-mono {
+    font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+}
+
+.text-3xl {
+    font-size: 1.875rem;
+    line-height: 2.25rem;
+}
+
+.text-4xl {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+}
+
+.text-xl {
+    font-size: 1.25rem;
+    line-height: 1.75rem;
+}
+
+.font-thin {
+    font-weight: 100;
+}
+
+.text-gray-600 {
+    color: rgb(75 85 99);
+}
+
+.text-green-600 {
+    color: rgb(22 163 74);
+}
+
+.hover\:bg-blue-800:hover {
+    background-color: rgb(30 64 175);
+}
+
+.hover\:text-white:hover {
+    color: rgb(255 255 255);
+}
+
+.focus\:outline-none:focus {
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+}
+
+.bg-blue-500 {
+    background-color: rgb(59 130 246);
+}
+
+.bg-red-300 {
+    background-color: rgb(252 165 165);
+}
+
+.text-red-900 {
+    color: rgb(127 29 29);
+}
+
+.font-semibold {
+    font-weight: 600;
+}
+
+.w-80 {
+    width: 20rem;
+}
+
+.rounded-lg {
+    border-radius: 0.5rem;
+}
+
+.my-2 {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+}
+
+.placeholder-blue-700::placeholder {
+    color: rgb(29 78 216);
+}
+
+.focus\:outline-none:focus {
+    outline: 2px solid transparent;
+    outline-offset: 2px;
+}
+
