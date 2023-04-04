@@ -11,7 +11,7 @@
     <title>Compound interest calculator</title>
     <link href="project.css" rel="stylesheet">
 </head>
-<body class="bg-blue-500">
+<body class="bg-cornflowerblue">
 <div>
   <div class="mx-auto my-96 w-1/2 max-w-2xl rounded-3xl bg-white py-5 text-center shadow-xl font-thin">
     <h2 class="mx-6 border-b pb-2 text-4xl font-thin">Compound Interest Calculator</h2>
