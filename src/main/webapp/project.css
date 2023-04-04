@@ -24,8 +24,8 @@
 }
 
 .my-96 {
-    margin-top: 24rem;
-    margin-bottom: 24rem;
+    margin-top: 10rem;
+    margin-bottom: 10rem;
 }
 
 .flex {
@@ -81,8 +81,8 @@
     border-bottom-width: 1px;
 }
 
-.bg-blue-300 {
-    background-color: rgb(147 197 253);
+.bg-button {
+    background-color: rgb(219,112,147);
 }
 
 .bg-white {
@@ -143,12 +143,12 @@
     color: rgb(75 85 99);
 }
 
-.text-green-600 {
-    color: rgb(22 163 74);
+.text-color {
+    color: rgb(75,0,130);
 }
 
 .hover\:bg-blue-800:hover {
-    background-color: rgb(30 64 175);
+    background-color: rgb(65,105,225);
 }
 
 .hover\:text-white:hover {
@@ -160,8 +160,8 @@
     outline-offset: 2px;
 }
 
-.bg-cornflowerblue {
-    background-color: cornflowerblue;
+.bg-blue {
+    background-color: rgb(123,104,238);
 }
 
 .bg-red-300 {

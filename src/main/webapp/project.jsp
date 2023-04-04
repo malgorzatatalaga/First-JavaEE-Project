@@ -11,7 +11,7 @@
     <title>Compound interest calculator</title>
     <link href="project.css" rel="stylesheet">
 </head>
-<body class="bg-cornflowerblue">
+<body class="bg-blue">
 <div>
   <div class="mx-auto my-96 w-1/2 max-w-2xl rounded-3xl bg-white py-5 text-center shadow-xl font-thin">
     <h2 class="mx-6 border-b pb-2 text-4xl font-thin">Compound Interest Calculator</h2>
@@ -30,8 +30,8 @@
         <label for="compound" class="flex items-center text-xl">Compound:</label>
         <input class="w-full appearance-none rounded-lg border-2 p-1 placeholder-blue-700 focus:outline-none focus:ring-2" id="compound" type="number" min="1" name="compound" value="${compound}" />
       </div>
-      <button class="rounded-lg bg-blue-300 px-4 py-1 text-xl font-thin hover:bg-blue-800 hover:text-white" type="submit">Calculate</button>
-      <p class="font-mono text-3xl text-green-600">Result: ${result}</p>
+      <button class="rounded-lg bg-button px-4 py-1 text-xl font-thin hover:bg-blue-800 hover:text-white" type="submit">Calculate</button>
+      <p class="font-mono text-3xl text-color">Result: ${result}</p>
     </form>
   </div>
 </div>
